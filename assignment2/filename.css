@@ -1,0 +1,45 @@
+li {list-style-type: none;
+
+    font-size: 16pt;
+    
+    }
+    
+    .mail {
+    
+    margin: auto;
+    
+    padding-top: 20px;
+    
+    padding-bottom: 20px;
+    
+    width: 850px;
+    
+    background : rgb(150, 195, 208);
+    
+    border: 1px soild rgb(1, 20, 24);
+    
+    }
+    
+    .mail h2 {
+    
+    margin-left: 36px;
+    
+    }
+    
+    input {
+    
+    font-size: 28pt;
+    
+    }
+    
+    input:focus, textarea:focus{
+    
+    background-color: white;
+    
+    }
+    
+    input submit {
+    
+    font-size: 18pt;
+    
+    }
